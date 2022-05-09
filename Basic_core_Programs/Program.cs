@@ -22,6 +22,8 @@ namespace Basic_core_Programs
             swapNum.SwapTwoNum();
             EvenOrOdd evenOrOdd = new EvenOrOdd();
             evenOrOdd.Even_Or_Odd();
+            VowelOrConsonant vowelOrConsonant = new VowelOrConsonant();
+            vowelOrConsonant.Vowel_Or_Consonant();
         }
     }
 }
