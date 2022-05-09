@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-namespace FlipCoin
+namespace Basic_core_Programs
 {
     public class Program
     {
@@ -10,6 +10,9 @@ namespace FlipCoin
 
             Flip_Coin myobj = new Flip_Coin();
             myobj.Heads_Tails();
+            LeapYear obj = new LeapYear();
+            obj.Leap_year();
+
         }
     }
 }

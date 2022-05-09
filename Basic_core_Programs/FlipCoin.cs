@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FlipCoin
+namespace Basic_core_Programs
 {
     public class Flip_Coin
     {
