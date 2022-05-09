@@ -16,6 +16,8 @@ namespace Basic_core_Programs
             inst.Power_Of_Two();
             HormonicNum hormonicNum = new HormonicNum();
             hormonicNum.Hormonic_Num();
+            Factors factors = new Factors();
+            factors.FactorsOfNum();
 
         }
     }
