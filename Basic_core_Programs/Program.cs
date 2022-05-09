@@ -14,6 +14,8 @@ namespace Basic_core_Programs
             obj.Leap_year();
             PowerOfTwo inst = new PowerOfTwo();
             inst.Power_Of_Two();
+            HormonicNum hormonicNum = new HormonicNum();
+            hormonicNum.Hormonic_Num();
 
         }
     }
