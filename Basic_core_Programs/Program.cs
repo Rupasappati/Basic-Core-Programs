@@ -20,7 +20,8 @@ namespace Basic_core_Programs
             factors.FactorsOfNum();
             SwapNum swapNum = new SwapNum();
             swapNum.SwapTwoNum();
-
+            EvenOrOdd evenOrOdd = new EvenOrOdd();
+            evenOrOdd.Even_Or_Odd();
         }
     }
 }
