@@ -24,6 +24,8 @@ namespace Basic_core_Programs
             evenOrOdd.Even_Or_Odd();
             VowelOrConsonant vowelOrConsonant = new VowelOrConsonant();
             vowelOrConsonant.Vowel_Or_Consonant();
+            LargestNum largestNum = new LargestNum();
+            largestNum.Largest_Num();
         }
     }
 }
