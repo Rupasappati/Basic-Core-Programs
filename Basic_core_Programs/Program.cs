@@ -12,6 +12,8 @@ namespace Basic_core_Programs
             myobj.Heads_Tails();
             LeapYear obj = new LeapYear();
             obj.Leap_year();
+            PowerOfTwo inst = new PowerOfTwo();
+            inst.Power_Of_Two();
 
         }
     }
