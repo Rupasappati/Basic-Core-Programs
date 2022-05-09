@@ -18,6 +18,8 @@ namespace Basic_core_Programs
             hormonicNum.Hormonic_Num();
             Factors factors = new Factors();
             factors.FactorsOfNum();
+            SwapNum swapNum = new SwapNum();
+            swapNum.SwapTwoNum();
 
         }
     }
